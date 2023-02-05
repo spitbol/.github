@@ -1,0 +1,2 @@
+# .github
+Spitbol Project Overview
